@@ -1,0 +1,15 @@
+{
+  "license": "MIT",
+  "name": "transducers-101",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/index.js"
+  },
+  "dependencies": {
+    "transducers-js": "^0.4.174"
+  },
+  "devDependencies": {
+    "@types/transducers-js": "^0.4.4",
+    "typescript": "^4.6.3"
+  }
+}
